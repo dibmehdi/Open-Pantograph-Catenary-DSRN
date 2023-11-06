@@ -25,6 +25,7 @@ This Python project offers automated analysis of train pantograph movements, con
 #### 5. `split.py`:
    - Splits the combined video into individual frames for further analysis if needed.
    - Facilitates detailed examination of specific segments of the video content.
+![Recording 2023-11-06 215851](https://github.com/dibmehdi/Open-Pantograph-Catenary-DSRN/assets/13963127/9d7c5817-708b-4025-b081-4ee4df5ffc01)
 
 #### Key Features:
 - **Pantograph Analysis:** Detects pantograph positions and contact points with overhead power lines.
