@@ -33,9 +33,9 @@ This Python project offers automated analysis of train pantograph movements, con
 - **Video Consolidation:** Automates the process of combining multiple videos into a single consolidated video.
 
 #### Results Examples:
-- *Arc Detection*: ![Arc Detection Example](https://drive.google.com/file/d/17WFwJTY4oM33bIJT5hzilgUsZq-yddEk/view?usp=sharing)
-- *Combined Video Output*: ![Combined Video Output Example](https://drive.google.com/file/d/1-gzt_S_hgbftYeEgfnnNysjNZ7uzOQal/view?usp=drive_link)
-- *Pantograph Movements Analysis*: ![Pantograph Movements Example](https://drive.google.com/file/d/1-5QDXvmtVl4cQAOMiO8oy_bbQGSbjF63/view?usp=drive_link)
+- *Arc Detection*: (https://drive.google.com/file/d/17WFwJTY4oM33bIJT5hzilgUsZq-yddEk/view?usp=sharing)
+- *Combined Video Output*: (https://drive.google.com/file/d/1-gzt_S_hgbftYeEgfnnNysjNZ7uzOQal/view?usp=drive_link)
+- *Pantograph Movements Analysis*: (https://drive.google.com/file/d/1-5QDXvmtVl4cQAOMiO8oy_bbQGSbjF63/view?usp=drive_link)
 
   
 #### How to Use:
