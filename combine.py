@@ -16,7 +16,7 @@ from tqdm import tqdm
 drive.mount('/content/drive')
 
 # Set the path to the folder containing videos
-videos_root_folder = "/content/drive/MyDrive/TC main/exp/Affroun/RT_AFF"
+videos_root_folder = "/content/drive/MyDrive/X"
 
 # Get a list of video files in the specified folder
 video_files = [f.path for f in os.scandir(videos_root_folder) if f.is_file() and f.name.endswith(".mp4")]
